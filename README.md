@@ -138,6 +138,7 @@ Why second-order sections (SOS) are more numerically stable than transfer functi
 How peak detection algorithms balance sensitivity (finding all real peaks) vs. specificity (not finding false ones)
 That "heart rate variability" isn't just noise — it's a meaningful physiological signal
 How to make matplotlib plots that actually look good and communicate clearly
+
 ⚠️ Disclaimer
 This is a student educational project, not a medical device or diagnostic tool.
 
